@@ -1,0 +1,1 @@
+# Spatial-Analysis-of-Regime-Schools-in-Bangalore
