@@ -16,6 +16,6 @@ With the following conditions:
 
 ## Tools Used
 
-Geographic Information System (GIS) 
-PostgreSQL
-QGIS
+1. Geographic Information System (GIS) 
+2. PostgreSQL
+3. QGIS
